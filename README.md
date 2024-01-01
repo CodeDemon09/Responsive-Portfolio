@@ -15,7 +15,7 @@ This portfolio is designed to be responsive, ensuring a seamless experience on v
 ## Author
 
 - c0de_demon
-- codedemon@gmail.com
+- codedemon09@gmail.com
 
 ## Windows_View
 
